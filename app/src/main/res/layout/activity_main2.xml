@@ -18,7 +18,7 @@
         android:id="@+id/rv"
         android:layout_width="294dp"
         android:layout_height="463dp"
-        tools:layout_editor_absoluteX="37dp"
-        tools:layout_editor_absoluteY="190dp" />
+        tools:layout_editor_absoluteX="80dp"
+        tools:layout_editor_absoluteY="150dp" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
